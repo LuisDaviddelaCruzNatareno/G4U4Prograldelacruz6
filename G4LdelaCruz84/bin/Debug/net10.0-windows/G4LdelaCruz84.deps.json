@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "G4LdelaCruz84/1.0.0": {
+        "runtime": {
+          "G4LdelaCruz84.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G4LdelaCruz84/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

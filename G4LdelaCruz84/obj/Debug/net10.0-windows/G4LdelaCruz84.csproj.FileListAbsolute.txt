@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\bin\Debug\net10.0-windows\G4LdelaCruz84.exe
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\bin\Debug\net10.0-windows\G4LdelaCruz84.deps.json
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\bin\Debug\net10.0-windows\G4LdelaCruz84.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\bin\Debug\net10.0-windows\G4LdelaCruz84.dll
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\bin\Debug\net10.0-windows\G4LdelaCruz84.pdb
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.Form1.resources
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.dll
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\refint\G4LdelaCruz84.dll
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.pdb
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\G4LdelaCruz84.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\G4LdelaCruz84\G4LdelaCruz84\obj\Debug\net10.0-windows\ref\G4LdelaCruz84.dll
